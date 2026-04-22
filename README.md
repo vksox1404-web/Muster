@@ -135,7 +135,7 @@ Parents are offered an intuitive dashboard to stay engaged with their child’s 
 
 ### Install project
 ```bash
-git clone https://github.com/khaledkamr/Muster.git
+git clone https://github.com/vksox1404-web/Muster.git
 ```
 
 ### configurations
